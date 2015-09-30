@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋通訓
-#+DATE: 2015-09-23 09:39:30
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:13:32.892238
+#+PROPERTY: ID KR1e0031
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1e0031_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋通訓卷二　　　　　宋　張大亨　撰¶
@@ -410,4 +412,3 @@
 <pb:KR1e0031_WYG_002-23b>¶
 　地人民之易失爵位名器之不可忽以為有天下國¶
 　家者之戒也¶
-
